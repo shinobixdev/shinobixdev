@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Pawar</h1>
-<h3 align="center">B.E. AI & ML Student | Aspiring Full Stack Developer</h3>
+<h3 align="center">B.E. AI & ML Student | Aspiring AI & ML Engineer </h3>
 
 <p align="center">
   Building practical applications, exploring AI, and learning something new every day.
